@@ -5,8 +5,11 @@ html, body {
 }
 
 .fuck-you-world {
+    position: relative;
     background-color: yellow;
     width: 200px;
     height: 200px;
     margin: auto;
+    top: 7px;
+    left: 5px;
 }
