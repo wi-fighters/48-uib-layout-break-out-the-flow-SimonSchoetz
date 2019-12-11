@@ -18,3 +18,6 @@
 
 7. Place `box3` **behind** `box2`.
 ![reference-image](/images/reference-image2.png)
+
+-------------
+Just in case you lose the link: https://github.com/wi-fighters/48-uib-layout-break-out-the-flow-SimonSchoetz
