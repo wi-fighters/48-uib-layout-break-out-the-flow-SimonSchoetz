@@ -4,3 +4,9 @@ html, body {
     height: 100%;
 }
 
+.fuck-you-world {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
