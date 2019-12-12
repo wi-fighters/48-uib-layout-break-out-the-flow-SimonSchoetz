@@ -33,3 +33,13 @@ body {
     left: 10px
     
 }
+
+.fuck-box3 {
+    background-color: rgb(0, 183, 255);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px
+    
+}
